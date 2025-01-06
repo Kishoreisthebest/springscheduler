@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>JenkinsCredentialStore</artifactId>
+	<artifactId>scheduled-task</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JenkinsCredentialStore</name>
+	<name>scheduled-task</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
